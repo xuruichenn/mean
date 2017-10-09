@@ -9,19 +9,42 @@ const infrastructure = quilt.createDeployment(
     {namespace: "machang"}
 );
 
-const machine = new quilt.Machine({
+const machine0 = new quilt.Machine({
     provider: 'Amazon',
     size: "m4.large",
     preemptible: false,
+    diskSize: 11,
 });
 
-utils.addSshKey(machine);
+const machine1 = new quilt.Machine({
+    provider: 'Amazon',
+    size: "m4.large",
+    preemptible: false,
+    diskSize: 12,
+});
 
-infrastructure.deploy(machine.asMaster());
-for (i = 0; i < count; i++) {
-    infrastructure.deploy(machine.asWorker());
-}
+const machine2 = new quilt.Machine({
+    provider: 'Amazon',
+    size: "m4.large",
+    preemptible: false,
+    diskSize: 13,
+});
+
+utils.addSshKey(machine0);
+utils.addSshKey(machine1);
+utils.addSshKey(machine2);
+
+infrastructure.deploy(machine0.asMaster());
+
+infrastructure.deploy(machine1.asWorker());
+infrastructure.deploy(machine2.asWorker());
 
 const nodeRepository = 'https://github.com/TsaiAnson/node-todo.git';
 const mean = new Mean(count, nodeRepository);
+
+var mongo_placements = [12,13];
+var node_placements = [12,13];
+
+mean.exclusive_mongo(mongo_placements);
+mean.exclusive_node(node_placements);
 infrastructure.deploy(mean);
