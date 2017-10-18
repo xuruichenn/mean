@@ -45,6 +45,4 @@ const mean = new Mean(count, nodeRepository);
 var mongo_placements = [12,13];
 var node_placements = [12,13];
 
-mean.exclusive_mongo(mongo_placements);
-mean.exclusive_node(node_placements);
 infrastructure.deploy(mean);
