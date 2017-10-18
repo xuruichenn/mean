@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "license": "MIT",
     "dependencies": {
-	"@quilt/quilt": "file:../quilt/",
-	"@quilt/haproxy": "file:../haproxy/",
-	"@quilt/nodejs": "file:../nodejs/",
-	"@quilt/mongo": "file:../mongo/"
+	"@quilt/quilt": "file:./../quilt/",
+	"@quilt/haproxy": "file:./../haproxy/",
+	"@quilt/nodejs": "file:./../nodejs/",
+	"@quilt/mongo": "file:./../mongo/"
     },
   "devDependencies": {
     "eslint": "^4.4.0",
