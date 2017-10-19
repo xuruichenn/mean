@@ -1,48 +1,24 @@
 const quilt = require('@quilt/quilt');
-const Mean = require('./mean');
-const utils = require('./utils');
+const Mean = require('./mean.js');
+const utils = require('./utils.js');
 
 // Replication to use for the node application
 // and Mongo.
 const count = 2;
 const infrastructure = quilt.createDeployment(
-    {namespace: "machang"}
+    {namespace: "mean-ubuntu2"}
 );
 
-const machine0 = new quilt.Machine({
+const machine = new quilt.Machine({
     provider: 'Amazon',
-    size: "m4.large",
-    preemptible: false,
-    diskSize: 11,
+    size: "c4.large",
 });
 
-const machine1 = new quilt.Machine({
-    provider: 'Amazon',
-    size: "m4.large",
-    preemptible: false,
-    diskSize: 12,
-});
+utils.addSshKey(machine)
 
-const machine2 = new quilt.Machine({
-    provider: 'Amazon',
-    size: "m4.large",
-    preemptible: false,
-    diskSize: 13,
-});
-
-utils.addSshKey(machine0);
-utils.addSshKey(machine1);
-utils.addSshKey(machine2);
-
-infrastructure.deploy(machine0.asMaster());
-
-infrastructure.deploy(machine1.asWorker());
-infrastructure.deploy(machine2.asWorker());
+infrastructure.deploy(machine.asMaster());
+infrastructure.deploy(machine.asWorker().replicate(count));
 
 const nodeRepository = 'https://github.com/TsaiAnson/node-todo.git';
 const mean = new Mean(count, nodeRepository);
-
-var mongo_placements = [12,13];
-var node_placements = [12,13];
-
 infrastructure.deploy(mean);
