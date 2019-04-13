@@ -1,0 +1,173 @@
+CONCURRENCY: 300
+{u'latency_90': 2927.0, u'latency_99': 3250.0, u'rps': 115.46, u'latency_50': 1557.0, u'latency': 2598.379}
+Data has been collected: {'latency_90': [2927.0], 'latency_99': [3250.0], 'rps': [115.46], 'latency_50': [1557.0], 'latency': [2598.379]}
+Data has been cleared
+{'latency_90': [2927.0], 'latency_99': [3250.0], 'rps': [115.46], 'latency_50': [1557.0], 'latency': [2598.379]}
+{'latency_90': [2927.0], 'latency_99': [3250.0], 'rps': [115.46], 'latency_50': [1557.0], 'latency': [2598.379]}
+
+CONCURRENCY: 290
+{u'latency_90': 3005.0, u'latency_99': 3261.0, u'rps': 106.04, u'latency_50': 1811.0, u'latency': 2734.854}
+Data has been collected: {'latency_90': [3005.0], 'latency_99': [3261.0], 'rps': [106.04], 'latency_50': [1811.0], 'latency': [2734.854]}
+Data has been cleared
+{'latency_90': [3005.0], 'latency_99': [3261.0], 'rps': [106.04], 'latency_50': [1811.0], 'latency': [2734.854]}
+{'latency_90': [3005.0], 'latency_99': [3261.0], 'rps': [106.04], 'latency_50': [1811.0], 'latency': [2734.854]}
+
+CONCURRENCY: 280
+{u'latency_90': 3171.0, u'latency_99': 3309.0, u'rps': 104.93, u'latency_50': 1875.0, u'latency': 2668.511}
+Data has been collected: {'latency_90': [3171.0], 'latency_99': [3309.0], 'rps': [104.93], 'latency_50': [1875.0], 'latency': [2668.511]}
+Data has been cleared
+{'latency_90': [3171.0], 'latency_99': [3309.0], 'rps': [104.93], 'latency_50': [1875.0], 'latency': [2668.511]}
+{'latency_90': [3171.0], 'latency_99': [3309.0], 'rps': [104.93], 'latency_50': [1875.0], 'latency': [2668.511]}
+
+CONCURRENCY: 270
+{u'latency_90': 2743.0, u'latency_99': 2980.0, u'rps': 114.58, u'latency_50': 1577.0, u'latency': 2356.427}
+Data has been collected: {'latency_90': [2743.0], 'latency_99': [2980.0], 'rps': [114.58], 'latency_50': [1577.0], 'latency': [2356.427]}
+Data has been cleared
+{'latency_90': [2743.0], 'latency_99': [2980.0], 'rps': [114.58], 'latency_50': [1577.0], 'latency': [2356.427]}
+{'latency_90': [2743.0], 'latency_99': [2980.0], 'rps': [114.58], 'latency_50': [1577.0], 'latency': [2356.427]}
+
+CONCURRENCY: 260
+{u'latency_90': 2497.0, u'latency_99': 2763.0, u'rps': 122.24, u'latency_50': 1418.0, u'latency': 2126.983}
+Data has been collected: {'latency_90': [2497.0], 'latency_99': [2763.0], 'rps': [122.24], 'latency_50': [1418.0], 'latency': [2126.983]}
+Data has been cleared
+{'latency_90': [2497.0], 'latency_99': [2763.0], 'rps': [122.24], 'latency_50': [1418.0], 'latency': [2126.983]}
+{'latency_90': [2497.0], 'latency_99': [2763.0], 'rps': [122.24], 'latency_50': [1418.0], 'latency': [2126.983]}
+
+CONCURRENCY: 250
+{u'latency_90': 2620.0, u'latency_99': 2917.0, u'rps': 112.92, u'latency_50': 1541.0, u'latency': 2213.985}
+Data has been collected: {'latency_90': [2620.0], 'latency_99': [2917.0], 'rps': [112.92], 'latency_50': [1541.0], 'latency': [2213.985]}
+Data has been cleared
+{'latency_90': [2620.0], 'latency_99': [2917.0], 'rps': [112.92], 'latency_50': [1541.0], 'latency': [2213.985]}
+{'latency_90': [2620.0], 'latency_99': [2917.0], 'rps': [112.92], 'latency_50': [1541.0], 'latency': [2213.985]}
+
+CONCURRENCY: 240
+{u'latency_90': 2787.0, u'latency_99': 2973.0, u'rps': 109.91, u'latency_50': 1475.0, u'latency': 2183.565}
+Data has been collected: {'latency_90': [2787.0], 'latency_99': [2973.0], 'rps': [109.91], 'latency_50': [1475.0], 'latency': [2183.565]}
+Data has been cleared
+{'latency_90': [2787.0], 'latency_99': [2973.0], 'rps': [109.91], 'latency_50': [1475.0], 'latency': [2183.565]}
+{'latency_90': [2787.0], 'latency_99': [2973.0], 'rps': [109.91], 'latency_50': [1475.0], 'latency': [2183.565]}
+
+CONCURRENCY: 230
+{u'latency_90': 2641.0, u'latency_99': 2874.0, u'rps': 109.6, u'latency_50': 1501.0, u'latency': 2098.448}
+Data has been collected: {'latency_90': [2641.0], 'latency_99': [2874.0], 'rps': [109.6], 'latency_50': [1501.0], 'latency': [2098.448]}
+Data has been cleared
+{'latency_90': [2641.0], 'latency_99': [2874.0], 'rps': [109.6], 'latency_50': [1501.0], 'latency': [2098.448]}
+{'latency_90': [2641.0], 'latency_99': [2874.0], 'rps': [109.6], 'latency_50': [1501.0], 'latency': [2098.448]}
+
+CONCURRENCY: 220
+{u'latency_90': 2410.0, u'latency_99': 2631.0, u'rps': 116.91, u'latency_50': 1335.0, u'latency': 1881.763}
+Data has been collected: {'latency_90': [2410.0], 'latency_99': [2631.0], 'rps': [116.91], 'latency_50': [1335.0], 'latency': [1881.763]}
+Data has been cleared
+{'latency_90': [2410.0], 'latency_99': [2631.0], 'rps': [116.91], 'latency_50': [1335.0], 'latency': [1881.763]}
+{'latency_90': [2410.0], 'latency_99': [2631.0], 'rps': [116.91], 'latency_50': [1335.0], 'latency': [1881.763]}
+
+CONCURRENCY: 210
+{u'latency_90': 2215.0, u'latency_99': 2438.0, u'rps': 122.15, u'latency_50': 1206.0, u'latency': 1719.214}
+Data has been collected: {'latency_90': [2215.0], 'latency_99': [2438.0], 'rps': [122.15], 'latency_50': [1206.0], 'latency': [1719.214]}
+Data has been cleared
+{'latency_90': [2215.0], 'latency_99': [2438.0], 'rps': [122.15], 'latency_50': [1206.0], 'latency': [1719.214]}
+{'latency_90': [2215.0], 'latency_99': [2438.0], 'rps': [122.15], 'latency_50': [1206.0], 'latency': [1719.214]}
+
+CONCURRENCY: 205
+{u'latency_90': 2050.0, u'latency_99': 2296.0, u'rps': 120.89, u'latency_50': 1275.0, u'latency': 1695.821}
+Data has been collected: {'latency_90': [2050.0], 'latency_99': [2296.0], 'rps': [120.89], 'latency_50': [1275.0], 'latency': [1695.821]}
+Data has been cleared
+{'latency_90': [2050.0], 'latency_99': [2296.0], 'rps': [120.89], 'latency_50': [1275.0], 'latency': [1695.821]}
+{'latency_90': [2050.0], 'latency_99': [2296.0], 'rps': [120.89], 'latency_50': [1275.0], 'latency': [1695.821]}
+
+CONCURRENCY: 200
+{u'latency_90': 2225.0, u'latency_99': 2448.0, u'rps': 118.81, u'latency_50': 1220.0, u'latency': 1683.314}
+Data has been collected: {'latency_90': [2225.0], 'latency_99': [2448.0], 'rps': [118.81], 'latency_50': [1220.0], 'latency': [1683.314]}
+Data has been cleared
+{'latency_90': [2225.0], 'latency_99': [2448.0], 'rps': [118.81], 'latency_50': [1220.0], 'latency': [1683.314]}
+
+CONCURRENCY: 195
+{u'latency_90': 2231.0, u'latency_99': 2390.0, u'rps': 111.48, u'latency_50': 1341.0, u'latency': 1749.173}
+Data has been collected: {'latency_90': [2231.0], 'latency_99': [2390.0], 'rps': [111.48], 'latency_50': [1341.0], 'latency': [1749.173]}
+Data has been cleared
+{'latency_90': [2231.0], 'latency_99': [2390.0], 'rps': [111.48], 'latency_50': [1341.0], 'latency': [1749.173]}
+{'latency_90': [2231.0], 'latency_99': [2390.0], 'rps': [111.48], 'latency_50': [1341.0], 'latency': [1749.173]}
+
+CONCURRENCY: 190
+{u'latency_90': 2066.0, u'latency_99': 2340.0, u'rps': 116.2, u'latency_50': 1239.0, u'latency': 1635.153}
+Data has been collected: {'latency_90': [2066.0], 'latency_99': [2340.0], 'rps': [116.2], 'latency_50': [1239.0], 'latency': [1635.153]}
+Data has been cleared
+{'latency_90': [2066.0], 'latency_99': [2340.0], 'rps': [116.2], 'latency_50': [1239.0], 'latency': [1635.153]}
+{'latency_90': [2066.0], 'latency_99': [2340.0], 'rps': [116.2], 'latency_50': [1239.0], 'latency': [1635.153]}
+
+CONCURRENCY: 180
+{u'latency_90': 2097.0, u'latency_99': 2272.0, u'rps': 108.5, u'latency_50': 1347.0, u'latency': 1659.048}
+Data has been collected: {'latency_90': [2097.0], 'latency_99': [2272.0], 'rps': [108.5], 'latency_50': [1347.0], 'latency': [1659.048]}
+Data has been cleared
+{'latency_90': [2097.0], 'latency_99': [2272.0], 'rps': [108.5], 'latency_50': [1347.0], 'latency': [1659.048]}
+{'latency_90': [2097.0], 'latency_99': [2272.0], 'rps': [108.5], 'latency_50': [1347.0], 'latency': [1659.048]}
+
+CONCURRENCY: 170
+{u'latency_90': 2207.0, u'latency_99': 2401.0, u'rps': 114.95, u'latency_50': 1131.0, u'latency': 1478.888}
+Data has been collected: {'latency_90': [2207.0], 'latency_99': [2401.0], 'rps': [114.95], 'latency_50': [1131.0], 'latency': [1478.888]}
+Data has been cleared
+{'latency_90': [2207.0], 'latency_99': [2401.0], 'rps': [114.95], 'latency_50': [1131.0], 'latency': [1478.888]}
+{'latency_90': [2207.0], 'latency_99': [2401.0], 'rps': [114.95], 'latency_50': [1131.0], 'latency': [1478.888]}
+
+CONCURRENCY: 160
+{u'latency_90': 1919.0, u'latency_99': 2091.0, u'rps': 105.74, u'latency_50': 1213.0, u'latency': 1513.077}
+Data has been collected: {'latency_90': [1919.0], 'latency_99': [2091.0], 'rps': [105.74], 'latency_50': [1213.0], 'latency': [1513.077]}
+Data has been cleared
+{'latency_90': [1919.0], 'latency_99': [2091.0], 'rps': [105.74], 'latency_50': [1213.0], 'latency': [1513.077]}
+{'latency_90': [1919.0], 'latency_99': [2091.0], 'rps': [105.74], 'latency_50': [1213.0], 'latency': [1513.077]}
+
+CONCURRENCY: 155
+{u'latency_90': 1999.0, u'latency_99': 2170.0, u'rps': 105.16, u'latency_50': 1187.0, u'latency': 1473.968}
+Data has been collected: {'latency_90': [1999.0], 'latency_99': [2170.0], 'rps': [105.16], 'latency_50': [1187.0], 'latency': [1473.968]}
+Data has been cleared
+{'latency_90': [1999.0], 'latency_99': [2170.0], 'rps': [105.16], 'latency_50': [1187.0], 'latency': [1473.968]}
+{'latency_90': [1999.0], 'latency_99': [2170.0], 'rps': [105.16], 'latency_50': [1187.0], 'latency': [1473.968]}
+
+CONCURRENCY: 150
+{u'latency_90': 1833.0, u'latency_99': 2006.0, u'rps': 105.04, u'latency_50': 1172.0, u'latency': 1428.019}
+Data has been collected: {'latency_90': [1833.0], 'latency_99': [2006.0], 'rps': [105.04], 'latency_50': [1172.0], 'latency': [1428.019]}
+Data has been cleared
+{'latency_90': [1833.0], 'latency_99': [2006.0], 'rps': [105.04], 'latency_50': [1172.0], 'latency': [1428.019]}
+{'latency_90': [1833.0], 'latency_99': [2006.0], 'rps': [105.04], 'latency_50': [1172.0], 'latency': [1428.019]}
+
+CONCURRENCY: 145
+{u'latency_90': 1644.0, u'latency_99': 1854.0, u'rps': 118.61, u'latency_50': 999.0, u'latency': 1222.49}
+Data has been collected: {'latency_90': [1644.0], 'latency_99': [1854.0], 'rps': [118.61], 'latency_50': [999.0], 'latency': [1222.49]}
+Data has been cleared
+{'latency_90': [1644.0], 'latency_99': [1854.0], 'rps': [118.61], 'latency_50': [999.0], 'latency': [1222.49]}
+{'latency_90': [1644.0], 'latency_99': [1854.0], 'rps': [118.61], 'latency_50': [999.0], 'latency': [1222.49]}
+
+CONCURRENCY: 140
+{u'latency_90': 1835.0, u'latency_99': 1923.0, u'rps': 101.02, u'latency_50': 1075.0, u'latency': 1385.842}
+Data has been collected: {'latency_90': [1835.0], 'latency_99': [1923.0], 'rps': [101.02], 'latency_50': [1075.0], 'latency': [1385.842]}
+Data has been cleared
+{'latency_90': [1835.0], 'latency_99': [1923.0], 'rps': [101.02], 'latency_50': [1075.0], 'latency': [1385.842]}
+{'latency_90': [1835.0], 'latency_99': [1923.0], 'rps': [101.02], 'latency_50': [1075.0], 'latency': [1385.842]}
+
+CONCURRENCY: 130
+{u'latency_90': 2059.0, u'latency_99': 2273.0, u'rps': 99.04, u'latency_50': 990.0, u'latency': 1312.62}
+Data has been collected: {'latency_90': [2059.0], 'latency_99': [2273.0], 'rps': [99.04], 'latency_50': [990.0], 'latency': [1312.62]}
+Data has been cleared
+{'latency_90': [2059.0], 'latency_99': [2273.0], 'rps': [99.04], 'latency_50': [990.0], 'latency': [1312.62]}
+{'latency_90': [2059.0], 'latency_99': [2273.0], 'rps': [99.04], 'latency_50': [990.0], 'latency': [1312.62]}
+
+CONCURRENCY: 120
+{u'latency_90': 1895.0, u'latency_99': 2176.0, u'rps': 91.09, u'latency_50': 1109.0, u'latency': 1317.441}
+Data has been collected: {'latency_90': [1895.0], 'latency_99': [2176.0], 'rps': [91.09], 'latency_50': [1109.0], 'latency': [1317.441]}
+Data has been cleared
+{'latency_90': [1895.0], 'latency_99': [2176.0], 'rps': [91.09], 'latency_50': [1109.0], 'latency': [1317.441]}
+{'latency_90': [1895.0], 'latency_99': [2176.0], 'rps': [91.09], 'latency_50': [1109.0], 'latency': [1317.441]}
+
+CONCURRENCY: 110
+{u'latency_90': 1970.0, u'latency_99': 2274.0, u'rps': 96.38, u'latency_50': 803.0, u'latency': 1141.322}
+Data has been collected: {'latency_90': [1970.0], 'latency_99': [2274.0], 'rps': [96.38], 'latency_50': [803.0], 'latency': [1141.322]}
+Data has been cleared
+{'latency_90': [1970.0], 'latency_99': [2274.0], 'rps': [96.38], 'latency_50': [803.0], 'latency': [1141.322]}
+{'latency_90': [1970.0], 'latency_99': [2274.0], 'rps': [96.38], 'latency_50': [803.0], 'latency': [1141.322]}
+
+CONCURRENCY: 100
+{u'latency_90': 1540.0, u'latency_99': 1728.0, u'rps': 96.03, u'latency_50': 875.0, u'latency': 1041.353}
+Data has been collected: {'latency_90': [1540.0], 'latency_99': [1728.0], 'rps': [96.03], 'latency_50': [875.0], 'latency': [1041.353]}
+Data has been cleared
+{'latency_90': [1540.0], 'latency_99': [1728.0], 'rps': [96.03], 'latency_50': [875.0], 'latency': [1041.353]}
+{'latency_90': [1540.0], 'latency_99': [1728.0], 'rps': [96.03], 'latency_50': [875.0], 'latency': [1041.353]}
