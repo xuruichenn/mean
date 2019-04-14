@@ -1,0 +1,640 @@
+iteration: 1
+GET requests have been sent
+CONCURRENCY: 100
+{u'latency_90': 1388.0, u'latency': 925.312, u'rps': 108.07, u'latency_50': 716.0, u'latency_99': 1780.0}
+Data has been collected: {'latency_90': [1388.0], 'latency_99': [1780.0], 'rps': [108.07], 'latency_50': [716.0], 'latency': [925.312]}
+Data has been cleared
+{'latency_90': [1388.0], 'latency_99': [1780.0], 'rps': [108.07], 'latency_50': [716.0], 'latency': [925.312]}
+GET requests have been sent
+CONCURRENCY: 110
+{u'latency_90': 1452.0, u'latency': 1075.129, u'rps': 102.31, u'latency_50': 907.0, u'latency_99': 1719.0}
+Data has been collected: {'latency_90': [1452.0], 'latency_99': [1719.0], 'rps': [102.31], 'latency_50': [907.0], 'latency': [1075.129]}
+Data has been cleared
+{'latency_90': [1452.0], 'latency_99': [1719.0], 'rps': [102.31], 'latency_50': [907.0], 'latency': [1075.129]}
+GET requests have been sent
+CONCURRENCY: 120
+{u'latency_90': 1671.0, u'latency': 1137.199, u'rps': 105.52, u'latency_50': 857.0, u'latency_99': 2475.0}
+Data has been collected: {'latency_90': [1671.0], 'latency_99': [2475.0], 'rps': [105.52], 'latency_50': [857.0], 'latency': [1137.199]}
+Data has been cleared
+{'latency_90': [1671.0], 'latency_99': [2475.0], 'rps': [105.52], 'latency_50': [857.0], 'latency': [1137.199]}
+GET requests have been sent
+CONCURRENCY: 130
+{u'latency_90': 1583.0, u'latency': 1233.613, u'rps': 105.38, u'latency_50': 996.0, u'latency_99': 1690.0}
+Data has been collected: {'latency_90': [1583.0], 'latency_99': [1690.0], 'rps': [105.38], 'latency_50': [996.0], 'latency': [1233.613]}
+Data has been cleared
+{'latency_90': [1583.0], 'latency_99': [1690.0], 'rps': [105.38], 'latency_50': [996.0], 'latency': [1233.613]}
+GET requests have been sent
+CONCURRENCY: 140
+{u'latency_90': 1697.0, u'latency': 1297.041, u'rps': 107.94, u'latency_50': 1016.0, u'latency_99': 1866.0}
+Data has been collected: {'latency_90': [1697.0], 'latency_99': [1866.0], 'rps': [107.94], 'latency_50': [1016.0], 'latency': [1297.041]}
+Data has been cleared
+{'latency_90': [1697.0], 'latency_99': [1866.0], 'rps': [107.94], 'latency_50': [1016.0], 'latency': [1297.041]}
+GET requests have been sent
+CONCURRENCY: 150
+{u'latency_90': 1742.0, u'latency': 1449.671, u'rps': 103.47, u'latency_50': 1107.0, u'latency_99': 2562.0}
+Data has been collected: {'latency_90': [1742.0], 'latency_99': [2562.0], 'rps': [103.47], 'latency_50': [1107.0], 'latency': [1449.671]}
+Data has been cleared
+{'latency_90': [1742.0], 'latency_99': [2562.0], 'rps': [103.47], 'latency_50': [1107.0], 'latency': [1449.671]}
+GET requests have been sent
+CONCURRENCY: 160
+{u'latency_90': 1872.0, u'latency': 1659.127, u'rps': 96.44, u'latency_50': 1285.0, u'latency_99': 2075.0}
+Data has been collected: {'latency_90': [1872.0], 'latency_99': [2075.0], 'rps': [96.44], 'latency_50': [1285.0], 'latency': [1659.127]}
+Data has been cleared
+{'latency_90': [1872.0], 'latency_99': [2075.0], 'rps': [96.44], 'latency_50': [1285.0], 'latency': [1659.127]}
+GET requests have been sent
+CONCURRENCY: 170
+{u'latency_90': 2035.0, u'latency': 1670.592, u'rps': 101.76, u'latency_50': 1278.0, u'latency_99': 2979.0}
+Data has been collected: {'latency_90': [2035.0], 'latency_99': [2979.0], 'rps': [101.76], 'latency_50': [1278.0], 'latency': [1670.592]}
+Data has been cleared
+{'latency_90': [2035.0], 'latency_99': [2979.0], 'rps': [101.76], 'latency_50': [1278.0], 'latency': [1670.592]}
+GET requests have been sent
+CONCURRENCY: 180
+{u'latency_90': 2036.0, u'latency': 1798.56, u'rps': 100.08, u'latency_50': 1360.0, u'latency_99': 2448.0}
+Data has been collected: {'latency_90': [2036.0], 'latency_99': [2448.0], 'rps': [100.08], 'latency_50': [1360.0], 'latency': [1798.56]}
+Data has been cleared
+{'latency_90': [2036.0], 'latency_99': [2448.0], 'rps': [100.08], 'latency_50': [1360.0], 'latency': [1798.56]}
+GET requests have been sent
+CONCURRENCY: 190
+{u'latency_90': 2166.0, u'latency': 1778.974, u'rps': 106.8, u'latency_50': 1356.0, u'latency_99': 2531.0}
+Data has been collected: {'latency_90': [2166.0], 'latency_99': [2531.0], 'rps': [106.8], 'latency_50': [1356.0], 'latency': [1778.974]}
+Data has been cleared
+{'latency_90': [2166.0], 'latency_99': [2531.0], 'rps': [106.8], 'latency_50': [1356.0], 'latency': [1778.974]}
+GET requests have been sent
+CONCURRENCY: 200
+{u'latency_90': 2133.0, u'latency': 1946.902, u'rps': 102.73, u'latency_50': 1298.0, u'latency_99': 2525.0}
+Data has been collected: {'latency_90': [2133.0], 'latency_99': [2525.0], 'rps': [102.73], 'latency_50': [1298.0], 'latency': [1946.902]}
+Data has been cleared
+{'latency_90': [2133.0], 'latency_99': [2525.0], 'rps': [102.73], 'latency_50': [1298.0], 'latency': [1946.902]}
+GET requests have been sent
+CONCURRENCY: 210
+{u'latency_90': 2314.0, u'latency': 2107.801, u'rps': 99.63, u'latency_50': 1630.0, u'latency_99': 2877.0}
+Data has been collected: {'latency_90': [2314.0], 'latency_99': [2877.0], 'rps': [99.63], 'latency_50': [1630.0], 'latency': [2107.801]}
+Data has been cleared
+{'latency_90': [2314.0], 'latency_99': [2877.0], 'rps': [99.63], 'latency_50': [1630.0], 'latency': [2107.801]}
+GET requests have been sent
+CONCURRENCY: 220
+{u'latency_90': 2390.0, u'latency': 2182.545, u'rps': 100.8, u'latency_50': 1472.0, u'latency_99': 2697.0}
+Data has been collected: {'latency_90': [2390.0], 'latency_99': [2697.0], 'rps': [100.8], 'latency_50': [1472.0], 'latency': [2182.545]}
+Data has been cleared
+{'latency_90': [2390.0], 'latency_99': [2697.0], 'rps': [100.8], 'latency_50': [1472.0], 'latency': [2182.545]}
+GET requests have been sent
+CONCURRENCY: 230
+{u'latency_90': 2495.0, u'latency': 2582.247, u'rps': 89.07, u'latency_50': 1760.0, u'latency_99': 2913.0}
+Data has been collected: {'latency_90': [2495.0], 'latency_99': [2913.0], 'rps': [89.07], 'latency_50': [1760.0], 'latency': [2582.247]}
+Data has been cleared
+{'latency_90': [2495.0], 'latency_99': [2913.0], 'rps': [89.07], 'latency_50': [1760.0], 'latency': [2582.247]}
+GET requests have been sent
+CONCURRENCY: 240
+{u'latency_90': 2502.0, u'latency': 2543.969, u'rps': 94.34, u'latency_50': 1843.0, u'latency_99': 2889.0}
+Data has been collected: {'latency_90': [2502.0], 'latency_99': [2889.0], 'rps': [94.34], 'latency_50': [1843.0], 'latency': [2543.969]}
+Data has been cleared
+{'latency_90': [2502.0], 'latency_99': [2889.0], 'rps': [94.34], 'latency_50': [1843.0], 'latency': [2543.969]}
+GET requests have been sent
+CONCURRENCY: 250
+{u'latency_90': 2672.0, u'latency': 2584.824, u'rps': 96.72, u'latency_50': 1934.0, u'latency_99': 3007.0}
+Data has been collected: {'latency_90': [2672.0], 'latency_99': [3007.0], 'rps': [96.72], 'latency_50': [1934.0], 'latency': [2584.824]}
+Data has been cleared
+{'latency_90': [2672.0], 'latency_99': [3007.0], 'rps': [96.72], 'latency_50': [1934.0], 'latency': [2584.824]}
+GET requests have been sent
+CONCURRENCY: 260
+{u'latency_90': 3176.0, u'latency': 2909.448, u'rps': 89.36, u'latency_50': 2006.0, u'latency_99': 4591.0}
+Data has been collected: {'latency_90': [3176.0], 'latency_99': [4591.0], 'rps': [89.36], 'latency_50': [2006.0], 'latency': [2909.448]}
+Data has been cleared
+{'latency_90': [3176.0], 'latency_99': [4591.0], 'rps': [89.36], 'latency_50': [2006.0], 'latency': [2909.448]}
+GET requests have been sent
+CONCURRENCY: 270
+{u'latency_90': 3029.0, u'latency': 2659.435, u'rps': 101.53, u'latency_50': 1737.0, u'latency_99': 3936.0}
+Data has been collected: {'latency_90': [3029.0], 'latency_99': [3936.0], 'rps': [101.53], 'latency_50': [1737.0], 'latency': [2659.435]}
+Data has been cleared
+{'latency_90': [3029.0], 'latency_99': [3936.0], 'rps': [101.53], 'latency_50': [1737.0], 'latency': [2659.435]}
+GET requests have been sent
+CONCURRENCY: 280
+{u'latency_90': 2929.0, u'latency': 3013.007, u'rps': 92.93, u'latency_50': 1864.0, u'latency_99': 3450.0}
+Data has been collected: {'latency_90': [2929.0], 'latency_99': [3450.0], 'rps': [92.93], 'latency_50': [1864.0], 'latency': [3013.007]}
+Data has been cleared
+{'latency_90': [2929.0], 'latency_99': [3450.0], 'rps': [92.93], 'latency_50': [1864.0], 'latency': [3013.007]}
+GET requests have been sent
+CONCURRENCY: 290
+{u'latency_90': 3531.0, u'latency': 3283.39, u'rps': 88.32, u'latency_50': 2250.0, u'latency_99': 4741.0}
+Data has been collected: {'latency_90': [3531.0], 'latency_99': [4741.0], 'rps': [88.32], 'latency_50': [2250.0], 'latency': [3283.39]}
+Data has been cleared
+{'latency_90': [3531.0], 'latency_99': [4741.0], 'rps': [88.32], 'latency_50': [2250.0], 'latency': [3283.39]}
+GET requests have been sent
+CONCURRENCY: 300
+{u'latency_90': 3115.0, u'latency': 3188.938, u'rps': 94.08, u'latency_50': 2243.0, u'latency_99': 3620.0}
+Data has been collected: {'latency_90': [3115.0], 'latency_99': [3620.0], 'rps': [94.08], 'latency_50': [2243.0], 'latency': [3188.938]}
+Data has been cleared
+{'latency_90': [3115.0], 'latency_99': [3620.0], 'rps': [94.08], 'latency_50': [2243.0], 'latency': [3188.938]}
+ 
+iteration: 2
+GET requests have been sent
+CONCURRENCY: 100
+{u'latency_90': 1317.0, u'latency': 942.579, u'rps': 106.09, u'latency_50': 746.0, u'latency_99': 1781.0}
+Data has been collected: {'latency_90': [1317.0], 'latency_99': [1781.0], 'rps': [106.09], 'latency_50': [746.0], 'latency': [942.579]}
+Data has been cleared
+{'latency_90': [1317.0], 'latency_99': [1781.0], 'rps': [106.09], 'latency_50': [746.0], 'latency': [942.579]}
+GET requests have been sent
+CONCURRENCY: 110
+{u'latency_90': 1405.0, u'latency': 980.799, u'rps': 112.15, u'latency_50': 735.0, u'latency_99': 2284.0}
+Data has been collected: {'latency_90': [1405.0], 'latency_99': [2284.0], 'rps': [112.15], 'latency_50': [735.0], 'latency': [980.799]}
+Data has been cleared
+{'latency_90': [1405.0], 'latency_99': [2284.0], 'rps': [112.15], 'latency_50': [735.0], 'latency': [980.799]}
+GET requests have been sent
+CONCURRENCY: 120
+{u'latency_90': 1439.0, u'latency': 1159.098, u'rps': 103.53, u'latency_50': 982.0, u'latency_99': 1665.0}
+Data has been collected: {'latency_90': [1439.0], 'latency_99': [1665.0], 'rps': [103.53], 'latency_50': [982.0], 'latency': [1159.098]}
+Data has been cleared
+{'latency_90': [1439.0], 'latency_99': [1665.0], 'rps': [103.53], 'latency_50': [982.0], 'latency': [1159.098]}
+GET requests have been sent
+CONCURRENCY: 130
+{u'latency_90': 1572.0, u'latency': 1210.494, u'rps': 107.39, u'latency_50': 881.0, u'latency_99': 2000.0}
+Data has been collected: {'latency_90': [1572.0], 'latency_99': [2000.0], 'rps': [107.39], 'latency_50': [881.0], 'latency': [1210.494]}
+Data has been cleared
+{'latency_90': [1572.0], 'latency_99': [2000.0], 'rps': [107.39], 'latency_50': [881.0], 'latency': [1210.494]}
+GET requests have been sent
+CONCURRENCY: 140
+{u'latency_90': 1672.0, u'latency': 1328.775, u'rps': 105.36, u'latency_50': 1002.0, u'latency_99': 2230.0}
+Data has been collected: {'latency_90': [1672.0], 'latency_99': [2230.0], 'rps': [105.36], 'latency_50': [1002.0], 'latency': [1328.775]}
+Data has been cleared
+{'latency_90': [1672.0], 'latency_99': [2230.0], 'rps': [105.36], 'latency_50': [1002.0], 'latency': [1328.775]}
+GET requests have been sent
+CONCURRENCY: 150
+{u'latency_90': 1983.0, u'latency': 1450.812, u'rps': 103.39, u'latency_50': 1103.0, u'latency_99': 3310.0}
+Data has been collected: {'latency_90': [1983.0], 'latency_99': [3310.0], 'rps': [103.39], 'latency_50': [1103.0], 'latency': [1450.812]}
+Data has been cleared
+{'latency_90': [1983.0], 'latency_99': [3310.0], 'rps': [103.39], 'latency_50': [1103.0], 'latency': [1450.812]}
+GET requests have been sent
+CONCURRENCY: 160
+{u'latency_90': 1868.0, u'latency': 1549.782, u'rps': 103.24, u'latency_50': 1139.0, u'latency_99': 2146.0}
+Data has been collected: {'latency_90': [1868.0], 'latency_99': [2146.0], 'rps': [103.24], 'latency_50': [1139.0], 'latency': [1549.782]}
+Data has been cleared
+{'latency_90': [1868.0], 'latency_99': [2146.0], 'rps': [103.24], 'latency_50': [1139.0], 'latency': [1549.782]}
+GET requests have been sent
+CONCURRENCY: 170
+{u'latency_90': 2453.0, u'latency': 1891.079, u'rps': 89.9, u'latency_50': 1010.0, u'latency_99': 2867.0}
+Data has been collected: {'latency_90': [2453.0], 'latency_99': [2867.0], 'rps': [89.9], 'latency_50': [1010.0], 'latency': [1891.079]}
+Data has been cleared
+{'latency_90': [2453.0], 'latency_99': [2867.0], 'rps': [89.9], 'latency_50': [1010.0], 'latency': [1891.079]}
+GET requests have been sent
+CONCURRENCY: 180
+{u'latency_90': 2022.0, u'latency': 1719.977, u'rps': 104.65, u'latency_50': 1296.0, u'latency_99': 2235.0}
+Data has been collected: {'latency_90': [2022.0], 'latency_99': [2235.0], 'rps': [104.65], 'latency_50': [1296.0], 'latency': [1719.977]}
+Data has been cleared
+{'latency_90': [2022.0], 'latency_99': [2235.0], 'rps': [104.65], 'latency_50': [1296.0], 'latency': [1719.977]}
+GET requests have been sent
+CONCURRENCY: 190
+{u'latency_90': 2113.0, u'latency': 1956.76, u'rps': 97.1, u'latency_50': 1508.0, u'latency_99': 2470.0}
+Data has been collected: {'latency_90': [2113.0], 'latency_99': [2470.0], 'rps': [97.1], 'latency_50': [1508.0], 'latency': [1956.76]}
+Data has been cleared
+{'latency_90': [2113.0], 'latency_99': [2470.0], 'rps': [97.1], 'latency_50': [1508.0], 'latency': [1956.76]}
+GET requests have been sent
+CONCURRENCY: 200
+{u'latency_90': 2587.0, u'latency': 2187.444, u'rps': 91.43, u'latency_50': 1640.0, u'latency_99': 3348.0}
+Data has been collected: {'latency_90': [2587.0], 'latency_99': [3348.0], 'rps': [91.43], 'latency_50': [1640.0], 'latency': [2187.444]}
+Data has been cleared
+{'latency_90': [2587.0], 'latency_99': [3348.0], 'rps': [91.43], 'latency_50': [1640.0], 'latency': [2187.444]}
+GET requests have been sent
+CONCURRENCY: 210
+{u'latency_90': 2634.0, u'latency': 2163.366, u'rps': 97.07, u'latency_50': 1545.0, u'latency_99': 3126.0}
+Data has been collected: {'latency_90': [2634.0], 'latency_99': [3126.0], 'rps': [97.07], 'latency_50': [1545.0], 'latency': [2163.366]}
+Data has been cleared
+{'latency_90': [2634.0], 'latency_99': [3126.0], 'rps': [97.07], 'latency_50': [1545.0], 'latency': [2163.366]}
+GET requests have been sent
+CONCURRENCY: 220
+{u'latency_90': 2460.0, u'latency': 2382.604, u'rps': 92.34, u'latency_50': 1743.0, u'latency_99': 3083.0}
+Data has been collected: {'latency_90': [2460.0], 'latency_99': [3083.0], 'rps': [92.34], 'latency_50': [1743.0], 'latency': [2382.604]}
+Data has been cleared
+{'latency_90': [2460.0], 'latency_99': [3083.0], 'rps': [92.34], 'latency_50': [1743.0], 'latency': [2382.604]}
+GET requests have been sent
+CONCURRENCY: 230
+{u'latency_90': 2721.0, u'latency': 2602.736, u'rps': 88.37, u'latency_50': 1874.0, u'latency_99': 3088.0}
+Data has been collected: {'latency_90': [2721.0], 'latency_99': [3088.0], 'rps': [88.37], 'latency_50': [1874.0], 'latency': [2602.736]}
+Data has been cleared
+{'latency_90': [2721.0], 'latency_99': [3088.0], 'rps': [88.37], 'latency_50': [1874.0], 'latency': [2602.736]}
+GET requests have been sent
+CONCURRENCY: 240
+{u'latency_90': 2589.0, u'latency': 2448.09, u'rps': 98.04, u'latency_50': 1908.0, u'latency_99': 2835.0}
+Data has been collected: {'latency_90': [2589.0], 'latency_99': [2835.0], 'rps': [98.04], 'latency_50': [1908.0], 'latency': [2448.09]}
+Data has been cleared
+{'latency_90': [2589.0], 'latency_99': [2835.0], 'rps': [98.04], 'latency_50': [1908.0], 'latency': [2448.09]}
+GET requests have been sent
+CONCURRENCY: 250
+{u'latency_90': 2760.0, u'latency': 2683.019, u'rps': 93.18, u'latency_50': 2011.0, u'latency_99': 3194.0}
+Data has been collected: {'latency_90': [2760.0], 'latency_99': [3194.0], 'rps': [93.18], 'latency_50': [2011.0], 'latency': [2683.019]}
+Data has been cleared
+{'latency_90': [2760.0], 'latency_99': [3194.0], 'rps': [93.18], 'latency_50': [2011.0], 'latency': [2683.019]}
+GET requests have been sent
+CONCURRENCY: 260
+{u'latency_90': 2805.0, u'latency': 2564.449, u'rps': 101.39, u'latency_50': 1582.0, u'latency_99': 3786.0}
+Data has been collected: {'latency_90': [2805.0], 'latency_99': [3786.0], 'rps': [101.39], 'latency_50': [1582.0], 'latency': [2564.449]}
+Data has been cleared
+{'latency_90': [2805.0], 'latency_99': [3786.0], 'rps': [101.39], 'latency_50': [1582.0], 'latency': [2564.449]}
+GET requests have been sent
+CONCURRENCY: 270
+{u'latency_90': 3508.0, u'latency': 2997.406, u'rps': 90.08, u'latency_50': 2139.0, u'latency_99': 4491.0}
+Data has been collected: {'latency_90': [3508.0], 'latency_99': [4491.0], 'rps': [90.08], 'latency_50': [2139.0], 'latency': [2997.406]}
+Data has been cleared
+{'latency_90': [3508.0], 'latency_99': [4491.0], 'rps': [90.08], 'latency_50': [2139.0], 'latency': [2997.406]}
+GET requests have been sent
+CONCURRENCY: 280
+{u'latency_90': 3126.0, u'latency': 2923.567, u'rps': 95.77, u'latency_50': 1896.0, u'latency_99': 3525.0}
+Data has been collected: {'latency_90': [3126.0], 'latency_99': [3525.0], 'rps': [95.77], 'latency_50': [1896.0], 'latency': [2923.567]}
+Data has been cleared
+{'latency_90': [3126.0], 'latency_99': [3525.0], 'rps': [95.77], 'latency_50': [1896.0], 'latency': [2923.567]}
+GET requests have been sent
+CONCURRENCY: 290
+{u'latency_90': 2809.0, u'latency': 2886.698, u'rps': 100.46, u'latency_50': 2032.0, u'latency_99': 3047.0}
+Data has been collected: {'latency_90': [2809.0], 'latency_99': [3047.0], 'rps': [100.46], 'latency_50': [2032.0], 'latency': [2886.698]}
+Data has been cleared
+{'latency_90': [2809.0], 'latency_99': [3047.0], 'rps': [100.46], 'latency_50': [2032.0], 'latency': [2886.698]}
+GET requests have been sent
+CONCURRENCY: 300
+{u'latency_90': 3444.0, u'latency': 3342.517, u'rps': 89.75, u'latency_50': 2167.0, u'latency_99': 4152.0}
+Data has been collected: {'latency_90': [3444.0], 'latency_99': [4152.0], 'rps': [89.75], 'latency_50': [2167.0], 'latency': [3342.517]}
+Data has been cleared
+{'latency_90': [3444.0], 'latency_99': [4152.0], 'rps': [89.75], 'latency_50': [2167.0], 'latency': [3342.517]}
+ 
+iteration: 3
+GET requests have been sent
+CONCURRENCY: 100
+{u'latency_90': 1389.0, u'latency': 990.748, u'rps': 100.93, u'latency_50': 771.0, u'latency_99': 1594.0}
+Data has been collected: {'latency_90': [1389.0], 'latency_99': [1594.0], 'rps': [100.93], 'latency_50': [771.0], 'latency': [990.748]}
+Data has been cleared
+{'latency_90': [1389.0], 'latency_99': [1594.0], 'rps': [100.93], 'latency_50': [771.0], 'latency': [990.748]}
+GET requests have been sent
+CONCURRENCY: 110
+{u'latency_90': 1452.0, u'latency': 1013.554, u'rps': 108.53, u'latency_50': 788.0, u'latency_99': 1868.0}
+Data has been collected: {'latency_90': [1452.0], 'latency_99': [1868.0], 'rps': [108.53], 'latency_50': [788.0], 'latency': [1013.554]}
+Data has been cleared
+{'latency_90': [1452.0], 'latency_99': [1868.0], 'rps': [108.53], 'latency_50': [788.0], 'latency': [1013.554]}
+GET requests have been sent
+CONCURRENCY: 120
+{u'latency_90': 1587.0, u'latency': 1173.062, u'rps': 102.3, u'latency_50': 899.0, u'latency_99': 1871.0}
+Data has been collected: {'latency_90': [1587.0], 'latency_99': [1871.0], 'rps': [102.3], 'latency_50': [899.0], 'latency': [1173.062]}
+Data has been cleared
+{'latency_90': [1587.0], 'latency_99': [1871.0], 'rps': [102.3], 'latency_50': [899.0], 'latency': [1173.062]}
+GET requests have been sent
+CONCURRENCY: 130
+{u'latency_90': 1591.0, u'latency': 1259.861, u'rps': 103.19, u'latency_50': 972.0, u'latency_99': 2846.0}
+Data has been collected: {'latency_90': [1591.0], 'latency_99': [2846.0], 'rps': [103.19], 'latency_50': [972.0], 'latency': [1259.861]}
+Data has been cleared
+{'latency_90': [1591.0], 'latency_99': [2846.0], 'rps': [103.19], 'latency_50': [972.0], 'latency': [1259.861]}
+GET requests have been sent
+CONCURRENCY: 140
+{u'latency_90': 1880.0, u'latency': 1409.148, u'rps': 99.35, u'latency_50': 973.0, u'latency_99': 3434.0}
+Data has been collected: {'latency_90': [1880.0], 'latency_99': [3434.0], 'rps': [99.35], 'latency_50': [973.0], 'latency': [1409.148]}
+Data has been cleared
+{'latency_90': [1880.0], 'latency_99': [3434.0], 'rps': [99.35], 'latency_50': [973.0], 'latency': [1409.148]}
+GET requests have been sent
+CONCURRENCY: 150
+{u'latency_90': 1747.0, u'latency': 1396.706, u'rps': 107.4, u'latency_50': 1191.0, u'latency_99': 1958.0}
+Data has been collected: {'latency_90': [1747.0], 'latency_99': [1958.0], 'rps': [107.4], 'latency_50': [1191.0], 'latency': [1396.706]}
+Data has been cleared
+{'latency_90': [1747.0], 'latency_99': [1958.0], 'rps': [107.4], 'latency_50': [1191.0], 'latency': [1396.706]}
+GET requests have been sent
+CONCURRENCY: 160
+{u'latency_90': 2056.0, u'latency': 1653.884, u'rps': 96.74, u'latency_50': 1241.0, u'latency_99': 2327.0}
+Data has been collected: {'latency_90': [2056.0], 'latency_99': [2327.0], 'rps': [96.74], 'latency_50': [1241.0], 'latency': [1653.884]}
+Data has been cleared
+{'latency_90': [2056.0], 'latency_99': [2327.0], 'rps': [96.74], 'latency_50': [1241.0], 'latency': [1653.884]}
+GET requests have been sent
+CONCURRENCY: 170
+{u'latency_90': 1997.0, u'latency': 1734.248, u'rps': 98.03, u'latency_50': 1375.0, u'latency_99': 2169.0}
+Data has been collected: {'latency_90': [1997.0], 'latency_99': [2169.0], 'rps': [98.03], 'latency_50': [1375.0], 'latency': [1734.248]}
+Data has been cleared
+{'latency_90': [1997.0], 'latency_99': [2169.0], 'rps': [98.03], 'latency_50': [1375.0], 'latency': [1734.248]}
+GET requests have been sent
+CONCURRENCY: 180
+{u'latency_90': 2140.0, u'latency': 1786.122, u'rps': 100.78, u'latency_50': 1278.0, u'latency_99': 2455.0}
+Data has been collected: {'latency_90': [2140.0], 'latency_99': [2455.0], 'rps': [100.78], 'latency_50': [1278.0], 'latency': [1786.122]}
+Data has been cleared
+{'latency_90': [2140.0], 'latency_99': [2455.0], 'rps': [100.78], 'latency_50': [1278.0], 'latency': [1786.122]}
+GET requests have been sent
+CONCURRENCY: 190
+{u'latency_90': 2424.0, u'latency': 1874.65, u'rps': 101.35, u'latency_50': 1425.0, u'latency_99': 3241.0}
+Data has been collected: {'latency_90': [2424.0], 'latency_99': [3241.0], 'rps': [101.35], 'latency_50': [1425.0], 'latency': [1874.65]}
+Data has been cleared
+{'latency_90': [2424.0], 'latency_99': [3241.0], 'rps': [101.35], 'latency_50': [1425.0], 'latency': [1874.65]}
+GET requests have been sent
+CONCURRENCY: 200
+{u'latency_90': 2233.0, u'latency': 2051.097, u'rps': 97.51, u'latency_50': 1445.0, u'latency_99': 2687.0}
+Data has been collected: {'latency_90': [2233.0], 'latency_99': [2687.0], 'rps': [97.51], 'latency_50': [1445.0], 'latency': [2051.097]}
+Data has been cleared
+{'latency_90': [2233.0], 'latency_99': [2687.0], 'rps': [97.51], 'latency_50': [1445.0], 'latency': [2051.097]}
+GET requests have been sent
+CONCURRENCY: 210
+{u'latency_90': 2240.0, u'latency': 2149.364, u'rps': 97.7, u'latency_50': 1579.0, u'latency_99': 2676.0}
+Data has been collected: {'latency_90': [2240.0], 'latency_99': [2676.0], 'rps': [97.7], 'latency_50': [1579.0], 'latency': [2149.364]}
+Data has been cleared
+{'latency_90': [2240.0], 'latency_99': [2676.0], 'rps': [97.7], 'latency_50': [1579.0], 'latency': [2149.364]}
+GET requests have been sent
+CONCURRENCY: 220
+{u'latency_90': 2357.0, u'latency': 2173.88, u'rps': 101.2, u'latency_50': 1608.0, u'latency_99': 2701.0}
+Data has been collected: {'latency_90': [2357.0], 'latency_99': [2701.0], 'rps': [101.2], 'latency_50': [1608.0], 'latency': [2173.88]}
+Data has been cleared
+{'latency_90': [2357.0], 'latency_99': [2701.0], 'rps': [101.2], 'latency_50': [1608.0], 'latency': [2173.88]}
+GET requests have been sent
+CONCURRENCY: 230
+{u'latency_90': 2488.0, u'latency': 2470.034, u'rps': 93.12, u'latency_50': 1763.0, u'latency_99': 2806.0}
+Data has been collected: {'latency_90': [2488.0], 'latency_99': [2806.0], 'rps': [93.12], 'latency_50': [1763.0], 'latency': [2470.034]}
+Data has been cleared
+{'latency_90': [2488.0], 'latency_99': [2806.0], 'rps': [93.12], 'latency_50': [1763.0], 'latency': [2470.034]}
+GET requests have been sent
+CONCURRENCY: 240
+{u'latency_90': 2500.0, u'latency': 2395.411, u'rps': 100.19, u'latency_50': 1909.0, u'latency_99': 2736.0}
+Data has been collected: {'latency_90': [2500.0], 'latency_99': [2736.0], 'rps': [100.19], 'latency_50': [1909.0], 'latency': [2395.411]}
+Data has been cleared
+{'latency_90': [2500.0], 'latency_99': [2736.0], 'rps': [100.19], 'latency_50': [1909.0], 'latency': [2395.411]}
+GET requests have been sent
+CONCURRENCY: 250
+{u'latency_90': 2495.0, u'latency': 2432.832, u'rps': 102.76, u'latency_50': 1766.0, u'latency_99': 2793.0}
+Data has been collected: {'latency_90': [2495.0], 'latency_99': [2793.0], 'rps': [102.76], 'latency_50': [1766.0], 'latency': [2432.832]}
+Data has been cleared
+{'latency_90': [2495.0], 'latency_99': [2793.0], 'rps': [102.76], 'latency_50': [1766.0], 'latency': [2432.832]}
+GET requests have been sent
+CONCURRENCY: 260
+{u'latency_90': 2810.0, u'latency': 2609.815, u'rps': 99.62, u'latency_50': 1701.0, u'latency_99': 3401.0}
+Data has been collected: {'latency_90': [2810.0], 'latency_99': [3401.0], 'rps': [99.62], 'latency_50': [1701.0], 'latency': [2609.815]}
+Data has been cleared
+{'latency_90': [2810.0], 'latency_99': [3401.0], 'rps': [99.62], 'latency_50': [1701.0], 'latency': [2609.815]}
+GET requests have been sent
+CONCURRENCY: 270
+{u'latency_90': 2997.0, u'latency': 2919.107, u'rps': 92.49, u'latency_50': 2215.0, u'latency_99': 3375.0}
+Data has been collected: {'latency_90': [2997.0], 'latency_99': [3375.0], 'rps': [92.49], 'latency_50': [2215.0], 'latency': [2919.107]}
+Data has been cleared
+{'latency_90': [2997.0], 'latency_99': [3375.0], 'rps': [92.49], 'latency_50': [2215.0], 'latency': [2919.107]}
+GET requests have been sent
+CONCURRENCY: 280
+{u'latency_90': 3735.0, u'latency': 3328.245, u'rps': 84.13, u'latency_50': 2024.0, u'latency_99': 4330.0}
+Data has been collected: {'latency_90': [3735.0], 'latency_99': [4330.0], 'rps': [84.13], 'latency_50': [2024.0], 'latency': [3328.245]}
+Data has been cleared
+{'latency_90': [3735.0], 'latency_99': [4330.0], 'rps': [84.13], 'latency_50': [2024.0], 'latency': [3328.245]}
+GET requests have been sent
+CONCURRENCY: 290
+{u'latency_90': 2567.0, u'latency': 2590.927, u'rps': 111.93, u'latency_50': 1654.0, u'latency_99': 2911.0}
+Data has been collected: {'latency_90': [2567.0], 'latency_99': [2911.0], 'rps': [111.93], 'latency_50': [1654.0], 'latency': [2590.927]}
+Data has been cleared
+{'latency_90': [2567.0], 'latency_99': [2911.0], 'rps': [111.93], 'latency_50': [1654.0], 'latency': [2590.927]}
+GET requests have been sent
+CONCURRENCY: 300
+{u'latency_90': 3568.0, u'latency': 3454.895, u'rps': 86.83, u'latency_50': 2625.0, u'latency_99': 4235.0}
+Data has been collected: {'latency_90': [3568.0], 'latency_99': [4235.0], 'rps': [86.83], 'latency_50': [2625.0], 'latency': [3454.895]}
+Data has been cleared
+{'latency_90': [3568.0], 'latency_99': [4235.0], 'rps': [86.83], 'latency_50': [2625.0], 'latency': [3454.895]}
+ 
+iteration: 4
+GET requests have been sent
+CONCURRENCY: 100
+{u'latency_90': 1480.0, u'latency': 950.651, u'rps': 105.19, u'latency_50': 695.0, u'latency_99': 1649.0}
+Data has been collected: {'latency_90': [1480.0], 'latency_99': [1649.0], 'rps': [105.19], 'latency_50': [695.0], 'latency': [950.651]}
+Data has been cleared
+{'latency_90': [1480.0], 'latency_99': [1649.0], 'rps': [105.19], 'latency_50': [695.0], 'latency': [950.651]}
+GET requests have been sent
+CONCURRENCY: 110
+{u'latency_90': 1380.0, u'latency': 975.638, u'rps': 112.75, u'latency_50': 816.0, u'latency_99': 1965.0}
+Data has been collected: {'latency_90': [1380.0], 'latency_99': [1965.0], 'rps': [112.75], 'latency_50': [816.0], 'latency': [975.638]}
+Data has been cleared
+{'latency_90': [1380.0], 'latency_99': [1965.0], 'rps': [112.75], 'latency_50': [816.0], 'latency': [975.638]}
+GET requests have been sent
+CONCURRENCY: 120
+{u'latency_90': 1569.0, u'latency': 1158.785, u'rps': 103.56, u'latency_50': 875.0, u'latency_99': 2355.0}
+Data has been collected: {'latency_90': [1569.0], 'latency_99': [2355.0], 'rps': [103.56], 'latency_50': [875.0], 'latency': [1158.785]}
+Data has been cleared
+{'latency_90': [1569.0], 'latency_99': [2355.0], 'rps': [103.56], 'latency_50': [875.0], 'latency': [1158.785]}
+GET requests have been sent
+CONCURRENCY: 130
+{u'latency_90': 1591.0, u'latency': 1246.149, u'rps': 104.32, u'latency_50': 1000.0, u'latency_99': 2386.0}
+Data has been collected: {'latency_90': [1591.0], 'latency_99': [2386.0], 'rps': [104.32], 'latency_50': [1000.0], 'latency': [1246.149]}
+Data has been cleared
+{'latency_90': [1591.0], 'latency_99': [2386.0], 'rps': [104.32], 'latency_50': [1000.0], 'latency': [1246.149]}
+GET requests have been sent
+CONCURRENCY: 140
+{u'latency_90': 1701.0, u'latency': 1233.61, u'rps': 113.49, u'latency_50': 912.0, u'latency_99': 2580.0}
+Data has been collected: {'latency_90': [1701.0], 'latency_99': [2580.0], 'rps': [113.49], 'latency_50': [912.0], 'latency': [1233.61]}
+Data has been cleared
+{'latency_90': [1701.0], 'latency_99': [2580.0], 'rps': [113.49], 'latency_50': [912.0], 'latency': [1233.61]}
+GET requests have been sent
+CONCURRENCY: 150
+{u'latency_90': 1704.0, u'latency': 1442.7, u'rps': 103.97, u'latency_50': 1114.0, u'latency_99': 2008.0}
+Data has been collected: {'latency_90': [1704.0], 'latency_99': [2008.0], 'rps': [103.97], 'latency_50': [1114.0], 'latency': [1442.7]}
+Data has been cleared
+{'latency_90': [1704.0], 'latency_99': [2008.0], 'rps': [103.97], 'latency_50': [1114.0], 'latency': [1442.7]}
+GET requests have been sent
+CONCURRENCY: 160
+{u'latency_90': 2089.0, u'latency': 1595.583, u'rps': 100.28, u'latency_50': 1002.0, u'latency_99': 2456.0}
+Data has been collected: {'latency_90': [2089.0], 'latency_99': [2456.0], 'rps': [100.28], 'latency_50': [1002.0], 'latency': [1595.583]}
+Data has been cleared
+{'latency_90': [2089.0], 'latency_99': [2456.0], 'rps': [100.28], 'latency_50': [1002.0], 'latency': [1595.583]}
+GET requests have been sent
+CONCURRENCY: 170
+{u'latency_90': 2521.0, u'latency': 1879.337, u'rps': 90.46, u'latency_50': 1018.0, u'latency_99': 2854.0}
+Data has been collected: {'latency_90': [2521.0], 'latency_99': [2854.0], 'rps': [90.46], 'latency_50': [1018.0], 'latency': [1879.337]}
+Data has been cleared
+{'latency_90': [2521.0], 'latency_99': [2854.0], 'rps': [90.46], 'latency_50': [1018.0], 'latency': [1879.337]}
+GET requests have been sent
+CONCURRENCY: 180
+{u'latency_90': 2316.0, u'latency': 1739.892, u'rps': 103.45, u'latency_50': 1207.0, u'latency_99': 2758.0}
+Data has been collected: {'latency_90': [2316.0], 'latency_99': [2758.0], 'rps': [103.45], 'latency_50': [1207.0], 'latency': [1739.892]}
+Data has been cleared
+{'latency_90': [2316.0], 'latency_99': [2758.0], 'rps': [103.45], 'latency_50': [1207.0], 'latency': [1739.892]}
+GET requests have been sent
+CONCURRENCY: 190
+{u'latency_90': 2374.0, u'latency': 1921.726, u'rps': 98.87, u'latency_50': 1510.0, u'latency_99': 3268.0}
+Data has been collected: {'latency_90': [2374.0], 'latency_99': [3268.0], 'rps': [98.87], 'latency_50': [1510.0], 'latency': [1921.726]}
+Data has been cleared
+{'latency_90': [2374.0], 'latency_99': [3268.0], 'rps': [98.87], 'latency_50': [1510.0], 'latency': [1921.726]}
+GET requests have been sent
+CONCURRENCY: 200
+{u'latency_90': 2163.0, u'latency': 1931.686, u'rps': 103.54, u'latency_50': 1378.0, u'latency_99': 2631.0}
+Data has been collected: {'latency_90': [2163.0], 'latency_99': [2631.0], 'rps': [103.54], 'latency_50': [1378.0], 'latency': [1931.686]}
+Data has been cleared
+{'latency_90': [2163.0], 'latency_99': [2631.0], 'rps': [103.54], 'latency_50': [1378.0], 'latency': [1931.686]}
+GET requests have been sent
+CONCURRENCY: 210
+{u'latency_90': 2551.0, u'latency': 2252.559, u'rps': 93.23, u'latency_50': 1500.0, u'latency_99': 2999.0}
+Data has been collected: {'latency_90': [2551.0], 'latency_99': [2999.0], 'rps': [93.23], 'latency_50': [1500.0], 'latency': [2252.559]}
+Data has been cleared
+{'latency_90': [2551.0], 'latency_99': [2999.0], 'rps': [93.23], 'latency_50': [1500.0], 'latency': [2252.559]}
+GET requests have been sent
+CONCURRENCY: 220
+{u'latency_90': 2337.0, u'latency': 2292.641, u'rps': 95.96, u'latency_50': 1660.0, u'latency_99': 2633.0}
+Data has been collected: {'latency_90': [2337.0], 'latency_99': [2633.0], 'rps': [95.96], 'latency_50': [1660.0], 'latency': [2292.641]}
+Data has been cleared
+{'latency_90': [2337.0], 'latency_99': [2633.0], 'rps': [95.96], 'latency_50': [1660.0], 'latency': [2292.641]}
+GET requests have been sent
+CONCURRENCY: 230
+{u'latency_90': 2513.0, u'latency': 2436.542, u'rps': 94.4, u'latency_50': 1916.0, u'latency_99': 3218.0}
+Data has been collected: {'latency_90': [2513.0], 'latency_99': [3218.0], 'rps': [94.4], 'latency_50': [1916.0], 'latency': [2436.542]}
+Data has been cleared
+{'latency_90': [2513.0], 'latency_99': [3218.0], 'rps': [94.4], 'latency_50': [1916.0], 'latency': [2436.542]}
+GET requests have been sent
+CONCURRENCY: 240
+{u'latency_90': 2868.0, u'latency': 2596.456, u'rps': 92.43, u'latency_50': 1440.0, u'latency_99': 3417.0}
+Data has been collected: {'latency_90': [2868.0], 'latency_99': [3417.0], 'rps': [92.43], 'latency_50': [1440.0], 'latency': [2596.456]}
+Data has been cleared
+{'latency_90': [2868.0], 'latency_99': [3417.0], 'rps': [92.43], 'latency_50': [1440.0], 'latency': [2596.456]}
+GET requests have been sent
+CONCURRENCY: 250
+{u'latency_90': 2790.0, u'latency': 2459.812, u'rps': 101.63, u'latency_50': 1606.0, u'latency_99': 3476.0}
+Data has been collected: {'latency_90': [2790.0], 'latency_99': [3476.0], 'rps': [101.63], 'latency_50': [1606.0], 'latency': [2459.812]}
+Data has been cleared
+{'latency_90': [2790.0], 'latency_99': [3476.0], 'rps': [101.63], 'latency_50': [1606.0], 'latency': [2459.812]}
+GET requests have been sent
+CONCURRENCY: 260
+{u'latency_90': 2820.0, u'latency': 2823.654, u'rps': 92.08, u'latency_50': 2154.0, u'latency_99': 3096.0}
+Data has been collected: {'latency_90': [2820.0], 'latency_99': [3096.0], 'rps': [92.08], 'latency_50': [2154.0], 'latency': [2823.654]}
+Data has been cleared
+{'latency_90': [2820.0], 'latency_99': [3096.0], 'rps': [92.08], 'latency_50': [2154.0], 'latency': [2823.654]}
+GET requests have been sent
+CONCURRENCY: 270
+{u'latency_90': 3591.0, u'latency': 3068.18, u'rps': 88.0, u'latency_50': 1772.0, u'latency_99': 4100.0}
+Data has been collected: {'latency_90': [3591.0], 'latency_99': [4100.0], 'rps': [88.0], 'latency_50': [1772.0], 'latency': [3068.18]}
+Data has been cleared
+{'latency_90': [3591.0], 'latency_99': [4100.0], 'rps': [88.0], 'latency_50': [1772.0], 'latency': [3068.18]}
+GET requests have been sent
+CONCURRENCY: 280
+{u'latency_90': 3153.0, u'latency': 3276.968, u'rps': 85.44, u'latency_50': 2431.0, u'latency_99': 3590.0}
+Data has been collected: {'latency_90': [3153.0], 'latency_99': [3590.0], 'rps': [85.44], 'latency_50': [2431.0], 'latency': [3276.968]}
+Data has been cleared
+{'latency_90': [3153.0], 'latency_99': [3590.0], 'rps': [85.44], 'latency_50': [2431.0], 'latency': [3276.968]}
+GET requests have been sent
+CONCURRENCY: 290
+{u'latency_90': 3375.0, u'latency': 3272.396, u'rps': 88.62, u'latency_50': 2330.0, u'latency_99': 4508.0}
+Data has been collected: {'latency_90': [3375.0], 'latency_99': [4508.0], 'rps': [88.62], 'latency_50': [2330.0], 'latency': [3272.396]}
+Data has been cleared
+{'latency_90': [3375.0], 'latency_99': [4508.0], 'rps': [88.62], 'latency_50': [2330.0], 'latency': [3272.396]}
+GET requests have been sent
+CONCURRENCY: 300
+{u'latency_90': 2902.0, u'latency': 2983.738, u'rps': 100.55, u'latency_50': 1953.0, u'latency_99': 3560.0}
+Data has been collected: {'latency_90': [2902.0], 'latency_99': [3560.0], 'rps': [100.55], 'latency_50': [1953.0], 'latency': [2983.738]}
+Data has been cleared
+{'latency_90': [2902.0], 'latency_99': [3560.0], 'rps': [100.55], 'latency_50': [1953.0], 'latency': [2983.738]}
+ 
+iteration: 5
+GET requests have been sent
+CONCURRENCY: 100
+{u'latency_90': 1283.0, u'latency': 929.26, u'rps': 107.61, u'latency_50': 670.0, u'latency_99': 1704.0}
+Data has been collected: {'latency_90': [1283.0], 'latency_99': [1704.0], 'rps': [107.61], 'latency_50': [670.0], 'latency': [929.26]}
+Data has been cleared
+{'latency_90': [1283.0], 'latency_99': [1704.0], 'rps': [107.61], 'latency_50': [670.0], 'latency': [929.26]}
+GET requests have been sent
+CONCURRENCY: 110
+{u'latency_90': 1378.0, u'latency': 991.296, u'rps': 110.97, u'latency_50': 771.0, u'latency_99': 1789.0}
+Data has been collected: {'latency_90': [1378.0], 'latency_99': [1789.0], 'rps': [110.97], 'latency_50': [771.0], 'latency': [991.296]}
+Data has been cleared
+{'latency_90': [1378.0], 'latency_99': [1789.0], 'rps': [110.97], 'latency_50': [771.0], 'latency': [991.296]}
+GET requests have been sent
+CONCURRENCY: 120
+{u'latency_90': 1403.0, u'latency': 1049.939, u'rps': 114.29, u'latency_50': 914.0, u'latency_99': 1584.0}
+Data has been collected: {'latency_90': [1403.0], 'latency_99': [1584.0], 'rps': [114.29], 'latency_50': [914.0], 'latency': [1049.939]}
+Data has been cleared
+{'latency_90': [1403.0], 'latency_99': [1584.0], 'rps': [114.29], 'latency_50': [914.0], 'latency': [1049.939]}
+GET requests have been sent
+CONCURRENCY: 130
+{u'latency_90': 1673.0, u'latency': 1332.599, u'rps': 97.55, u'latency_50': 1065.0, u'latency_99': 1927.0}
+Data has been collected: {'latency_90': [1673.0], 'latency_99': [1927.0], 'rps': [97.55], 'latency_50': [1065.0], 'latency': [1332.599]}
+Data has been cleared
+{'latency_90': [1673.0], 'latency_99': [1927.0], 'rps': [97.55], 'latency_50': [1065.0], 'latency': [1332.599]}
+GET requests have been sent
+CONCURRENCY: 140
+{u'latency_90': 1754.0, u'latency': 1284.164, u'rps': 109.02, u'latency_50': 977.0, u'latency_99': 2346.0}
+Data has been collected: {'latency_90': [1754.0], 'latency_99': [2346.0], 'rps': [109.02], 'latency_50': [977.0], 'latency': [1284.164]}
+Data has been cleared
+{'latency_90': [1754.0], 'latency_99': [2346.0], 'rps': [109.02], 'latency_50': [977.0], 'latency': [1284.164]}
+GET requests have been sent
+CONCURRENCY: 150
+{u'latency_90': 2019.0, u'latency': 1463.771, u'rps': 102.48, u'latency_50': 963.0, u'latency_99': 2231.0}
+Data has been collected: {'latency_90': [2019.0], 'latency_99': [2231.0], 'rps': [102.48], 'latency_50': [963.0], 'latency': [1463.771]}
+Data has been cleared
+{'latency_90': [2019.0], 'latency_99': [2231.0], 'rps': [102.48], 'latency_50': [963.0], 'latency': [1463.771]}
+GET requests have been sent
+CONCURRENCY: 160
+{u'latency_90': 2202.0, u'latency': 1583.56, u'rps': 101.04, u'latency_50': 1097.0, u'latency_99': 2939.0}
+Data has been collected: {'latency_90': [2202.0], 'latency_99': [2939.0], 'rps': [101.04], 'latency_50': [1097.0], 'latency': [1583.56]}
+Data has been cleared
+{'latency_90': [2202.0], 'latency_99': [2939.0], 'rps': [101.04], 'latency_50': [1097.0], 'latency': [1583.56]}
+GET requests have been sent
+CONCURRENCY: 170
+{u'latency_90': 1877.0, u'latency': 1581.863, u'rps': 107.47, u'latency_50': 1266.0, u'latency_99': 2216.0}
+Data has been collected: {'latency_90': [1877.0], 'latency_99': [2216.0], 'rps': [107.47], 'latency_50': [1266.0], 'latency': [1581.863]}
+Data has been cleared
+{'latency_90': [1877.0], 'latency_99': [2216.0], 'rps': [107.47], 'latency_50': [1266.0], 'latency': [1581.863]}
+GET requests have been sent
+CONCURRENCY: 180
+{u'latency_90': 2124.0, u'latency': 1938.064, u'rps': 92.88, u'latency_50': 1393.0, u'latency_99': 2848.0}
+Data has been collected: {'latency_90': [2124.0], 'latency_99': [2848.0], 'rps': [92.88], 'latency_50': [1393.0], 'latency': [1938.064]}
+Data has been cleared
+{'latency_90': [2124.0], 'latency_99': [2848.0], 'rps': [92.88], 'latency_50': [1393.0], 'latency': [1938.064]}
+GET requests have been sent
+CONCURRENCY: 190
+{u'latency_90': 2234.0, u'latency': 1974.868, u'rps': 96.21, u'latency_50': 1495.0, u'latency_99': 2426.0}
+Data has been collected: {'latency_90': [2234.0], 'latency_99': [2426.0], 'rps': [96.21], 'latency_50': [1495.0], 'latency': [1974.868]}
+Data has been cleared
+{'latency_90': [2234.0], 'latency_99': [2426.0], 'rps': [96.21], 'latency_50': [1495.0], 'latency': [1974.868]}
+GET requests have been sent
+CONCURRENCY: 200
+{u'latency_90': 2387.0, u'latency': 2014.7, u'rps': 99.27, u'latency_50': 1563.0, u'latency_99': 3065.0}
+Data has been collected: {'latency_90': [2387.0], 'latency_99': [3065.0], 'rps': [99.27], 'latency_50': [1563.0], 'latency': [2014.7]}
+Data has been cleared
+{'latency_90': [2387.0], 'latency_99': [3065.0], 'rps': [99.27], 'latency_50': [1563.0], 'latency': [2014.7]}
+GET requests have been sent
+CONCURRENCY: 210
+{u'latency_90': 2336.0, u'latency': 1996.468, u'rps': 105.19, u'latency_50': 1545.0, u'latency_99': 2655.0}
+Data has been collected: {'latency_90': [2336.0], 'latency_99': [2655.0], 'rps': [105.19], 'latency_50': [1545.0], 'latency': [1996.468]}
+Data has been cleared
+{'latency_90': [2336.0], 'latency_99': [2655.0], 'rps': [105.19], 'latency_50': [1545.0], 'latency': [1996.468]}
+GET requests have been sent
+CONCURRENCY: 220
+{u'latency_90': 2412.0, u'latency': 2296.477, u'rps': 95.8, u'latency_50': 1749.0, u'latency_99': 2752.0}
+Data has been collected: {'latency_90': [2412.0], 'latency_99': [2752.0], 'rps': [95.8], 'latency_50': [1749.0], 'latency': [2296.477]}
+Data has been cleared
+{'latency_90': [2412.0], 'latency_99': [2752.0], 'rps': [95.8], 'latency_50': [1749.0], 'latency': [2296.477]}
+GET requests have been sent
+CONCURRENCY: 230
+{u'latency_90': 2476.0, u'latency': 2310.276, u'rps': 99.56, u'latency_50': 1812.0, u'latency_99': 2800.0}
+Data has been collected: {'latency_90': [2476.0], 'latency_99': [2800.0], 'rps': [99.56], 'latency_50': [1812.0], 'latency': [2310.276]}
+Data has been cleared
+{'latency_90': [2476.0], 'latency_99': [2800.0], 'rps': [99.56], 'latency_50': [1812.0], 'latency': [2310.276]}
+GET requests have been sent
+CONCURRENCY: 240
+{u'latency_90': 3267.0, u'latency': 2502.115, u'rps': 95.92, u'latency_50': 1604.0, u'latency_99': 4171.0}
+Data has been collected: {'latency_90': [3267.0], 'latency_99': [4171.0], 'rps': [95.92], 'latency_50': [1604.0], 'latency': [2502.115]}
+Data has been cleared
+{'latency_90': [3267.0], 'latency_99': [4171.0], 'rps': [95.92], 'latency_50': [1604.0], 'latency': [2502.115]}
+GET requests have been sent
+CONCURRENCY: 250
+{u'latency_90': 2746.0, u'latency': 2534.966, u'rps': 98.62, u'latency_50': 1902.0, u'latency_99': 3108.0}
+Data has been collected: {'latency_90': [2746.0], 'latency_99': [3108.0], 'rps': [98.62], 'latency_50': [1902.0], 'latency': [2534.966]}
+Data has been cleared
+{'latency_90': [2746.0], 'latency_99': [3108.0], 'rps': [98.62], 'latency_50': [1902.0], 'latency': [2534.966]}
+GET requests have been sent
+CONCURRENCY: 260
+{u'latency_90': 2927.0, u'latency': 2913.578, u'rps': 89.24, u'latency_50': 2130.0, u'latency_99': 4083.0}
+Data has been collected: {'latency_90': [2927.0], 'latency_99': [4083.0], 'rps': [89.24], 'latency_50': [2130.0], 'latency': [2913.578]}
+Data has been cleared
+{'latency_90': [2927.0], 'latency_99': [4083.0], 'rps': [89.24], 'latency_50': [2130.0], 'latency': [2913.578]}
+GET requests have been sent
+CONCURRENCY: 270
+{u'latency_90': 2855.0, u'latency': 2655.26, u'rps': 101.68, u'latency_50': 1838.0, u'latency_99': 3414.0}
+Data has been collected: {'latency_90': [2855.0], 'latency_99': [3414.0], 'rps': [101.68], 'latency_50': [1838.0], 'latency': [2655.26]}
+Data has been cleared
+{'latency_90': [2855.0], 'latency_99': [3414.0], 'rps': [101.68], 'latency_50': [1838.0], 'latency': [2655.26]}
+GET requests have been sent
+CONCURRENCY: 280
+{u'latency_90': 3090.0, u'latency': 3008.636, u'rps': 93.07, u'latency_50': 2355.0, u'latency_99': 3713.0}
+Data has been collected: {'latency_90': [3090.0], 'latency_99': [3713.0], 'rps': [93.07], 'latency_50': [2355.0], 'latency': [3008.636]}
+Data has been cleared
+{'latency_90': [3090.0], 'latency_99': [3713.0], 'rps': [93.07], 'latency_50': [2355.0], 'latency': [3008.636]}
+GET requests have been sent
+CONCURRENCY: 290
+{u'latency_90': 2950.0, u'latency': 2864.125, u'rps': 101.25, u'latency_50': 1930.0, u'latency_99': 3317.0}
+Data has been collected: {'latency_90': [2950.0], 'latency_99': [3317.0], 'rps': [101.25], 'latency_50': [1930.0], 'latency': [2864.125]}
+Data has been cleared
+{'latency_90': [2950.0], 'latency_99': [3317.0], 'rps': [101.25], 'latency_50': [1930.0], 'latency': [2864.125]}
+GET requests have been sent
+CONCURRENCY: 300
+{u'latency_90': 3838.0, u'latency': 3326.116, u'rps': 90.2, u'latency_50': 1964.0, u'latency_99': 4858.0}
+Data has been collected: {'latency_90': [3838.0], 'latency_99': [4858.0], 'rps': [90.2], 'latency_50': [1964.0], 'latency': [3326.116]}
+Data has been cleared
+{'latency_90': [3838.0], 'latency_99': [4858.0], 'rps': [90.2], 'latency_50': [1964.0], 'latency': [3326.116]}
+{'latency_90': [3838.0], 'latency_99': [4858.0], 'rps': [90.2], 'latency_50': [1964.0], 'latency': [3326.116]}
